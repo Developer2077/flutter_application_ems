@@ -45,5 +45,9 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Questa app necessita dell'accesso alla posizione per trovare il tuo comune e mostrare le previsioni solari.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Questa app necessita dell'accesso alla posizione per trovare il tuo comune e mostrare le previsioni solari.</string>
 </dict>
 </plist>
