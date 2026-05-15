@@ -77,7 +77,7 @@ flutter run
 
 ### Compilazione Android (APK)
 ```bash
-flutter build apk --release
+build\app\outputs\flutter-apk\app-debug.apk o rigenerare con flutter build apk --release
 ```
 
 ---
