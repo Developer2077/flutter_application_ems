@@ -96,7 +96,7 @@ build\app\outputs\flutter-apk\app-debug.apk o rigenerare con flutter build apk -
 ---
 
 ## 🎥 Video Dimostrativo
-*(Inserire qui il link al video di screen recording richiesto dal bando, che mostra il funzionamento completo dell'app con audio esplicativo).*
+Video condiviso tramite email universitaria.
 
 ## 📧 Supporto e Riferimenti
 Progetto realizzato per l'Hackathon "App per C.E.R." organizzato da **EMS – Energia e Mobilità Sostenibile APS**.
